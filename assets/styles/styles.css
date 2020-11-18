@@ -23,13 +23,12 @@ body {
 #header header a {
     text-decoration: none;
     margin: 5% 2.5%;
-    font-family: 'Open Sans', sans-serif;
-    font-size: medium;
+    font: italic normal bold 20px 'Open Sans';
     color: rgba(8, 8, 58, 1);
 }
 
 #header header a:first-child {
-    color: rgba(255, 1, 123, 1)
+    color: rgba(255, 1, 123, 1);
 }
 
 #banner {
